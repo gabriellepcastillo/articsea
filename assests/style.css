@@ -1,0 +1,23 @@
+html, body {
+    font-size: 18px;
+}
+.container {
+    width: 1920px;
+}
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+.content {
+    width: 960px;
+}
+.button {
+    background-color: #F96332;
+    display: block;
+    margin-top: 50px;
+    padding: 34px 50px;
+}
